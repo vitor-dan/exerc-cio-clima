@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+header {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#app button {
+    padding: 40px;
+    margin-bottom: 30px;
+    background-color: aqua;
+    border: none;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 40px;
+}
+
+
+#app main p {
+    padding-top: 10px;
+    font-size: 20px;
+}
